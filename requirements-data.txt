@@ -1,0 +1,8 @@
+# Dependensi lokal Anggota 2, tervalidasi pada Python 3.14.6 (Windows CPU).
+torch==2.14.1
+torchvision==0.29.1
+Pillow==13.0.0
+pytest==9.1.1
+# Hanya untuk menjalankan file .ipynb langsung di IDE Antigravity.
+ipykernel==7.4.0
+matplotlib==3.11.2
